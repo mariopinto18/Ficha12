@@ -1,0 +1,75 @@
+c:\users\utilizador\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+c:\users\utilizador\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+c:\users\utilizador\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+c:\users\utilizador\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+c:\users\utilizador\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+c:\users\utilizador\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\utilizador\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+c:\users\utilizador\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+c:\users\utilizador\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+c:\users\utilizador\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\Utilizador\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\Utilizador\Dropbox\AED\2017-18\Exemplos\Web Navigator - Ficha 15\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Utilizador\Dropbox\AED\2017-18\Exemplos\Web Navigator - Ficha 15\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Utilizador\Dropbox\AED\2017-18\Exemplos\Web Navigator - Ficha 15\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Utilizador\Dropbox\AED\2017-18\Exemplos\Web Navigator - Ficha 15\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Utilizador\Dropbox\AED\2017-18\Exemplos\Web Navigator - Ficha 15\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Utilizador\Dropbox\AED\2017-18\Exemplos\Web Navigator - Ficha 15\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Utilizador\Dropbox\AED\2017-18\Exemplos\Web Navigator - Ficha 15\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\Utilizador\Dropbox\AED\2017-18\Exemplos\Web Navigator - Ficha 15\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\Utilizador\Dropbox\AED\2017-18\Exemplos\Web Navigator - Ficha 15\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Utilizador\Dropbox\AED\2017-18\Exemplos\Web Navigator - Ficha 15\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Utilizador\Dropbox\AED\2017-18\Exemplos\Web Navigator - Ficha 15\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+C:\Users\Utilizador\Dropbox\AED\2017-18\Exemplos\Web Navigator - Ficha 15\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+E:\C# - Exercicios\Ficha 13\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+E:\C# - Exercicios\Ficha 13\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+E:\C# - Exercicios\Ficha 13\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\C# - Exercicios\Ficha 13\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+E:\C# - Exercicios\Ficha 13\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+E:\C# - Exercicios\Ficha 13\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+E:\C# - Exercicios\Ficha 13\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+E:\C# - Exercicios\Ficha 13\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\C# - Exercicios\Ficha 13\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+E:\C# - Exercicios\Ficha 13\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+E:\C# - Exercicios\Ficha 13\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\C# - Exercicios\Ficha 13\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+E:\C# - Exercicios\Ficha 13\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form4.resources
+E:\C# - Exercicios\Ficha 13 - Víeo e Imagens\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+E:\C# - Exercicios\Ficha 13 - Víeo e Imagens\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+E:\C# - Exercicios\Ficha 13 - Víeo e Imagens\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\C# - Exercicios\Ficha 13 - Víeo e Imagens\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+E:\C# - Exercicios\Ficha 13 - Víeo e Imagens\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+E:\C# - Exercicios\Ficha 13 - Víeo e Imagens\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+E:\C# - Exercicios\Ficha 13 - Víeo e Imagens\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+E:\C# - Exercicios\Ficha 13 - Víeo e Imagens\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form4.resources
+E:\C# - Exercicios\Ficha 13 - Víeo e Imagens\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\C# - Exercicios\Ficha 13 - Víeo e Imagens\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+E:\C# - Exercicios\Ficha 13 - Víeo e Imagens\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+E:\C# - Exercicios\Ficha 13 - Víeo e Imagens\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\C# - Exercicios\Ficha 13 - Víeo e Imagens\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+E:\C# - Exercicios\Ficha 13 - Vídeo e Imagens\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+E:\C# - Exercicios\Ficha 13 - Vídeo e Imagens\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+E:\C# - Exercicios\Ficha 13 - Vídeo e Imagens\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\C# - Exercicios\Ficha 13 - Vídeo e Imagens\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+E:\C# - Exercicios\Ficha 13 - Vídeo e Imagens\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+E:\C# - Exercicios\Ficha 13 - Vídeo e Imagens\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+E:\C# - Exercicios\Ficha 13 - Vídeo e Imagens\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+E:\C# - Exercicios\Ficha 13 - Vídeo e Imagens\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form4.resources
+E:\C# - Exercicios\Ficha 13 - Vídeo e Imagens\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\C# - Exercicios\Ficha 13 - Vídeo e Imagens\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+E:\C# - Exercicios\Ficha 13 - Vídeo e Imagens\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+E:\C# - Exercicios\Ficha 13 - Vídeo e Imagens\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\C# - Exercicios\Ficha 13 - Vídeo e Imagens\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+E:\C# - Exercicios\Ficha 12 - Vídeo e Imagens\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+E:\C# - Exercicios\Ficha 12 - Vídeo e Imagens\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+E:\C# - Exercicios\Ficha 12 - Vídeo e Imagens\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\C# - Exercicios\Ficha 12 - Vídeo e Imagens\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+E:\C# - Exercicios\Ficha 12 - Vídeo e Imagens\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+E:\C# - Exercicios\Ficha 12 - Vídeo e Imagens\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+E:\C# - Exercicios\Ficha 12 - Vídeo e Imagens\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+E:\C# - Exercicios\Ficha 12 - Vídeo e Imagens\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form4.resources
+E:\C# - Exercicios\Ficha 12 - Vídeo e Imagens\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\C# - Exercicios\Ficha 12 - Vídeo e Imagens\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+E:\C# - Exercicios\Ficha 12 - Vídeo e Imagens\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+E:\C# - Exercicios\Ficha 12 - Vídeo e Imagens\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\C# - Exercicios\Ficha 12 - Vídeo e Imagens\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
